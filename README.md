@@ -4,4 +4,4 @@ sketch extraction of anime characters by pix2pix
 --------------------------------------------------
 temp result:
 
-![image](https://github.com/joejoe2/sketch-extraction-of-anime-character/blob/master/temp.png.jpg)
+![image](https://github.com/joejoe2/sketch-extraction-of-anime-character/blob/main/temp.png.jpg)
