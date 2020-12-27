@@ -2,6 +2,7 @@
 sketch extraction of anime characters by pix2pix
 
 --------------------------------------------------
-temp result:
 
-![image](https://github.com/joejoe2/sketch-extraction-of-anime-character/blob/main/temp.png.jpg)
+results evaluation : https://www.kaggle.com/joejoe79/notebook5d0111deb4/
+
+models : https://www.kaggle.com/joejoe79/anime-sketch-models
